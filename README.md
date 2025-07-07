@@ -58,7 +58,6 @@ Each visualization was developed on a separate tab in Power BI, named according 
 | File Name                     | Description                          |
 |------------------------------ |--------------------------------------|
 | `Retail Sales.pbix`           | Power BI file with all 4 visuals     |
-| `Online Retail Data Set.xlsx` | Cleaned dataset used in Power BI     |
 | `Readme`                      | Script for presenting analysis       |
 
 
