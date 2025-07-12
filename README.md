@@ -89,4 +89,5 @@ Each visualization was developed on a separate tab in Power BI, named according 
 
 > This project is part of the **Tata Forage Virtual Experience**  
 
+![DataVisualisation_page-0001](https://github.com/user-attachments/assets/9be841b6-331d-4caa-ae0b-88cfac7c60f5)
 
